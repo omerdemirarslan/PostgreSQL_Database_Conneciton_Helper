@@ -4,7 +4,7 @@ The Script In This Repo Is  Helpful PostgreSQL Database Connection.
 # How To Use PostgreSQL Database Connection
 
 ## Step-1: Import Classfrom 
-cameralyze.helpers.database.postgre import DBHelper
+
 
 ## Step-2: Create New Connection Your Database
 Like This -->
